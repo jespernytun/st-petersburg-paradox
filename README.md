@@ -33,7 +33,7 @@ However given the fact that you would then have to simulate millions, of not nea
 I've done it manually and just eyeballed it, because I'm not a statistician but an electrical engineer who just so happened to have a stats class last semester.
 I consistenly get an average of around 21-23 running my simulations one by one, with an average of 20-22 if we disregard the luckiest streak.
 
-However, sometimes, and not not that even that infrequently it shoots up to around 40-60.
+However, sometimes it shoots up to around 40-60.
 
 ### Conclusion
 I would personally price the game around 25 to 28 euros. You'd most likley be fine and rake in some money offering this game at that price. The individual player would lose a lot of money playing against you, as the "average average" for playing very few games is around 8 euros. 
